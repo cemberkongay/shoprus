@@ -20,27 +20,113 @@ as a discount).
 5. The percentage based discounts do not apply on groceries.
 6. A user can get only one of the percentage based discounts on a bill.
 
-## Install
+The model structure can be viewed from the images below.
 
-```sh
+<img alt="Model Class Diagram" src="https://github.com/cemberkongay/shoprus/blob/main/ShopsRUs/ModelClassDiagram.png?raw=true" />
+<img alt="Helper Class Diagram" src="https://github.com/cemberkongay/shoprus/blob/main/ShopsRUs/HelperClassDiagram.png" />
+
+## Project Run
+
 For project setup, simply download the repository and compile the code in your locale with the help of VS Code or Visual Studio.
-After running the project, you can review the API with the help of the swagger. You can also use the following sample request models to test the API.
-```
-
-## Usage
-
-```sh
-instruciton buraya gir
-```
+After running the project, you can review the API with the help of the swagger.
 
 ## Run tests
 
-```sh
 The project has unit tests that test many cases. Without running the project, you can only run the tests and review existing cases.
+
+## User tests
+You can also use the following sample request models to test the API.
+
+The Request models have two fields to consider. These are 
+1. CustomerType 
+2. ProductType
+
+You can review model details from the enum classes in the diagram image.
+
+```sh
+{
+  "customer": {
+    "id": 1,
+    "type": 1,
+    "createdOn": "2018-03-01T12:35:57.312Z"
+  },
+  "products": [
+    {
+      "id": 1,
+      "type": 1,
+      "price": 100.00
+    },{
+      "id": 2,
+      "type": 2,
+      "price": 50.00
+    },{
+      "id": 3,
+      "type": 2,
+      "price": 120.00
+    },{
+      "id": 4,
+      "type": 2,
+      "price": 30.00
+    },
+  ]
+}
 ```
 
-## Author
+```sh
+{
+  "customer": {
+    "id": 1,
+    "type": 2,
+    "createdOn": "2018-03-01T12:35:57.312Z"
+  },
+  "products": [
+    {
+      "id": 1,
+      "type": 1,
+      "price": 100.00
+    },{
+      "id": 2,
+      "type": 2,
+      "price": 50.00
+    },{
+      "id": 3,
+      "type": 2,
+      "price": 120.00
+    },{
+      "id": 4,
+      "type": 2,
+      "price": 30.00
+    },
+  ]
+}
+```
 
-👤 **Cem Berk Öngay**
+```sh
+{
+  "customer": {
+    "id": 1,
+    "type": 3,
+    "createdOn": "2018-03-01T12:35:57.312Z"
+  },
+  "products": [
+    {
+      "id": 1,
+      "type": 2,
+      "price": 2490.00
+    },{
+      "id": 2,
+      "type": 2,
+      "price": 45.00
+    },{
+      "id": 3,
+      "type": 2,
+      "price": 70.00
+    },{
+      "id": 4,
+      "type": 1,
+      "price": 5.00
+    }
+  ]
+}
+```
 
-* Github: [@cemberkongay](https://github.com/cemberkongay)
