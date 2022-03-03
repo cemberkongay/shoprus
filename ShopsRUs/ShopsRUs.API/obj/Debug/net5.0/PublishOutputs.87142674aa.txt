@@ -1,0 +1,15 @@
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Api.exe
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\appsettings.Development.json
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\appsettings.json
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Api.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Api.deps.json
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Api.runtimeconfig.json
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Api.pdb
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\Microsoft.OpenApi.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Application.Helpers.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Application.Models.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Application.Helpers.pdb
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Application.Models.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ShopsRUs.Application.Helpers/1.0.0": {
+        "dependencies": {
+          "ShopsRUs.Application.Models": "1.0.0"
+        },
+        "runtime": {
+          "ShopsRUs.Application.Helpers.dll": {}
+        }
+      },
+      "ShopsRUs.Application.Models/1.0.0": {
+        "runtime": {
+          "ShopsRUs.Application.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopsRUs.Application.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShopsRUs.Application.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

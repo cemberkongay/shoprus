@@ -1,0 +1,12 @@
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ShopsRUs.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ShopsRUs.Application.Models.AssemblyInfoInputs.cache
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ShopsRUs.Application.Models.AssemblyInfo.cs
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ShopsRUs.Application.Models.csproj.CoreCompileInputs.cache
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\bin\Debug\net5.0\ShopsRUs.Application.Models.deps.json
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\bin\Debug\net5.0\ShopsRUs.Application.Models.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\bin\Debug\net5.0\ShopsRUs.Application.Models.pdb
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ShopsRUs.Application.Models.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ref\ShopsRUs.Application.Models.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ShopsRUs.Application.Models.pdb
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\ShopsRUs.Application.Models.csproj.AssemblyReference.cache
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Models\obj\Debug\net5.0\refint\ShopsRUs.Application.Models.dll

@@ -1,0 +1,3 @@
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Application.Models.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Application.Models.deps.json
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\publish\ShopsRUs.Application.Models.pdb

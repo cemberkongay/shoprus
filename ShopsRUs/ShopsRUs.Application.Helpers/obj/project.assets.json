@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ShopsRUs.Application.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ShopsRUs.Application.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopsRUs.Application.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopsRUs.Application.Models/1.0.0": {
+      "type": "project",
+      "path": "../ShopsRUs.Application.Models/ShopsRUs.Application.Models.csproj",
+      "msbuildProject": "../ShopsRUs.Application.Models/ShopsRUs.Application.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ShopsRUs.Application.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\antdev\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\antdev\\Documents\\ShopsRUs\\shoprus\\ShopsRUs\\ShopsRUs.Application.Helpers\\ShopsRUs.Application.Helpers.csproj",
+      "projectName": "ShopsRUs.Application.Helpers",
+      "projectPath": "C:\\Users\\antdev\\Documents\\ShopsRUs\\shoprus\\ShopsRUs\\ShopsRUs.Application.Helpers\\ShopsRUs.Application.Helpers.csproj",
+      "packagesPath": "C:\\Users\\antdev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\antdev\\Documents\\ShopsRUs\\shoprus\\ShopsRUs\\ShopsRUs.Application.Helpers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\antdev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\antdev\\Documents\\ShopsRUs\\shoprus\\ShopsRUs\\ShopsRUs.Application.Models\\ShopsRUs.Application.Models.csproj": {
+              "projectPath": "C:\\Users\\antdev\\Documents\\ShopsRUs\\shoprus\\ShopsRUs\\ShopsRUs.Application.Models\\ShopsRUs.Application.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

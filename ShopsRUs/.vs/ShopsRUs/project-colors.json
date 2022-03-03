@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89e48af2-569b-4c3e-b15f-7cc4cfd26609": {
+      "ProjectGuid": "89e48af2-569b-4c3e-b15f-7cc4cfd26609",
+      "DisplayName": "ShopsRUs.Api",
+      "ColorIndex": 0
+    },
+    "6f69ebb7-5429-43f5-ae76-0bbe6588186e": {
+      "ProjectGuid": "6f69ebb7-5429-43f5-ae76-0bbe6588186e",
+      "DisplayName": "ShopsRUs.Tests",
+      "ColorIndex": 1
+    },
+    "af6e4060-7e37-4f18-a34e-435edf51bc5f": {
+      "ProjectGuid": "af6e4060-7e37-4f18-a34e-435edf51bc5f",
+      "DisplayName": "ShopsRUs.Application.Models",
+      "ColorIndex": 2
+    },
+    "db9344ef-8c80-438d-b8af-84593b060470": {
+      "ProjectGuid": "db9344ef-8c80-438d-b8af-84593b060470",
+      "DisplayName": "ShopsRUs.Application.Helpers",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="ShopsRUs.Application.Models.Invoices.InvoiceRequest">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Invoices\InvoiceRequest.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Customer" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="Products" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ShopsRUs.Application.Models.Invoices.InvoiceResponse">
+    <Position X="2.25" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAgAAIAAAAAA=</HashCode>
+      <FileName>Invoices\InvoiceResponse.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Message" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ShopsRUs.Application.Models.Customer">
+    <Position X="1" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAIAAAAAAQAAAACAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Customers\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopsRUs.Application.Models.Products">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Products\Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ShopsRUs.Application.Models.ValidationMessages.ValidationMessage">
+    <Position X="5.25" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>ValidationMessages\ValidationMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ShopsRUs.Application.Models.ValidationMessages.MessageCode">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAgAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ValidationMessages\ValidationMessage.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ShopsRUs.Application.Models.ProductType">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAQAAAAAAAAEAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Products\ProductType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ShopsRUs.Application.Models.CustomerType">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Customers\CustomerType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

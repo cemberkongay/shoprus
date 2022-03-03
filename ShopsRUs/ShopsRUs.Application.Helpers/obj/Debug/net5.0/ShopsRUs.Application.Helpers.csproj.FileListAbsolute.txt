@@ -1,0 +1,15 @@
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.csproj.AssemblyReference.cache
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.AssemblyInfoInputs.cache
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.AssemblyInfo.cs
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\bin\Debug\net5.0\ShopsRUs.Application.Helpers.deps.json
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\bin\Debug\net5.0\ShopsRUs.Application.Helpers.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\bin\Debug\net5.0\ShopsRUs.Application.Helpers.pdb
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\bin\Debug\net5.0\ShopsRUs.Application.Models.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\bin\Debug\net5.0\ShopsRUs.Application.Models.pdb
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.csproj.CopyComplete
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ref\ShopsRUs.Application.Helpers.dll
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\ShopsRUs.Application.Helpers.pdb
+C:\Users\antdev\source\ShopsRUs\ShopsRUs\ShopsRUs.Application.Helpers\obj\Debug\net5.0\refint\ShopsRUs.Application.Helpers.dll
